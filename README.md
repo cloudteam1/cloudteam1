@@ -46,7 +46,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>niharika2810/README.md at master · niharika2810/niharika2810</title>
+  <title>cloudteam1/README.md at master · cloudteam1/cloudteam1</title>
     <meta name="description" content="All About One Way IT Solutions. Contribute to cloudteam1/cloudteam1 development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -121,7 +121,7 @@
   <meta name="octolytics-dimension-user_id" content="40764403" /><meta name="octolytics-dimension-user_login" content="niharika2810" /><meta name="octolytics-dimension-repository_id" content="272812361" /><meta name="octolytics-dimension-repository_nwo" content="niharika2810/niharika2810" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="272812361" /><meta name="octolytics-dimension-repository_network_root_nwo" content="niharika2810/niharika2810" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/niharika2810/niharika2810/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/cloudteam1/cloudteam1/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
