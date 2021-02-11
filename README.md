@@ -52,7 +52,7 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/40764403?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="niharika2810/niharika2810" /><meta name="twitter:description" content="All About Niharika Arora. Contribute to niharika2810/niharika2810 development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/40764403?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="niharika2810/niharika2810" /><meta name="twitter:description" content="All About OneWay IT Solutions. Contribute to cloudteam1/cloudteam1 development by creating an account on GitHub." />
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/40764403?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="niharika2810/niharika2810" /><meta property="og:url" content="https://github.com/cloudteam1/cloudteam1" /><meta property="og:description" content="All About One Way IT Solutions. Contribute to cloudteam1/cloudteam1 development by creating an account on GitHub." />
 
 
